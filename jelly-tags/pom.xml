@@ -8,6 +8,7 @@
   </parent>
 
   <artifactId>commons-jelly-tags</artifactId>
+  <version>${revision}${changelist}</version>
   <packaging>pom</packaging>
   <name>Apache Commons Jelly Tag Libraries Parent</name>
   <description>Parent pom for tag library projects.</description>
